@@ -6,6 +6,6 @@ Power BI analysis to examine HR data, particularly focusing on gender-related KP
 ### 4.Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
  
 
-# Task 1: Creating a dashboard in Power BI  that reflects all relevant Key Performance Indicators (KPIs) and metrics of a fictional call center using the dataset.
-# Task 2: Creating a dashboard to understand customer retention
-# Task 3: Creating visualizations to represent HR data, particularly focusing on gender-related KPIs to identify potential root causes for the slow progress in achieving gender balance 
+#### Task 1: Creating a dashboard in Power BI  that reflects all relevant Key Performance Indicators (KPIs) and metrics of a fictional call center using the dataset.
+#### Task 2: Creating a dashboard to understand customer retention
+#### Task 3: Creating visualizations to represent HR data, particularly focusing on gender-related KPIs to identify potential root causes for the slow progress in achieving gender balance
